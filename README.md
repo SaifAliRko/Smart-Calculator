@@ -1,5 +1,6 @@
 # Smart Calculator
  Created a smart calculator deveoped via Tkinter GUI
+
 ![image](https://user-images.githubusercontent.com/71323220/96589918-b1849900-12e5-11eb-8ed8-459ca7992c7f.png)
 
 
